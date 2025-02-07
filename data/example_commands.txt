@@ -1,0 +1,19 @@
+# Contoh perintah untuk digunakan dengan AI Llama Bot
+
+# Menampilkan daftar file di direktori saat ini
+execute: ls
+
+# Menampilkan informasi sistem
+execute: uname -a
+
+# Menampilkan isi file tertentu
+execute: cat example.txt
+
+# Menghentikan proses tertentu
+execute: killall python
+
+# Menampilkan penggunaan disk
+execute: df -h
+
+# Menampilkan proses yang sedang berjalan
+execute: ps aux
