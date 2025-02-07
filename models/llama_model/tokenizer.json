@@ -1,0 +1,23 @@
+{
+    "model_type": "llama",
+    "vocab": {
+        "token_to_id": {
+            "hello": 0,
+            "world": 1,
+            "[PAD]": 2,
+            "[UNK]": 3
+        },
+        "id_to_token": {
+            "0": "hello",
+            "1": "world",
+            "2": "[PAD]",
+            "3": "[UNK]"
+        }
+    },
+    "special_tokens": {
+        "pad_token": "[PAD]",
+        "unk_token": "[UNK]",
+        "eos_token": "[EOS]",
+        "bos_token": "[BOS]"
+    }
+}
