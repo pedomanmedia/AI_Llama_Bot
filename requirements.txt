@@ -1,0 +1,4 @@
+transformers==4.30.0   # Pustaka untuk model pemrosesan bahasa alami
+torch==2.0.1           # Pustaka untuk komputasi tensor dan pembelajaran mendalam
+flask==2.2.2           # Pustaka untuk membuat aplikasi web (jika diperlukan)
+numpy==1.23.5          # Pustaka untuk komputasi numerik
